@@ -1,0 +1,29 @@
+key store debug
+What is your first and last name?
+  [Unknown]:  yol chet
+What is the name of your organizational unit?
+  [Unknown]:  yol chet
+What is the name of your organization?
+  [Unknown]:  amatak
+What is the name of your City or Locality?
+  [Unknown]:  phnom penh
+What is the name of your State or Province?
+  [Unknown]:  phnom penh
+What is the two-letter country code for this unit?
+  [Unknown]:  kh
+key store release
+name :  yolchet
+pass: @yolchet@
+alias:yolchet
+What is your first and last name?
+  [Unknown]: yol chet
+What is the name of your organizational unit?
+  [Unknown]: yol chet
+What is the name of your organization?
+  [Unknown]:  amatak
+What is the name of your City or Locality?
+  [Unknown]:  phnom penh
+What is the name of your State or Province?
+  [Unknown]:  phnom penh
+What is the two-letter country code for this unit?
+  [Unknown]:  kh
